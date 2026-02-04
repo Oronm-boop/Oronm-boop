@@ -1,95 +1,97 @@
 <div align="center">
 
-# Hi 👋, I'm Oronm-boop
+# 👋 Hi, I'm Jianbo Li
 
-### 🚀 A passionate **Full-Stack Developer** from China
+### `Full-Stack Developer`
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- 🔭 A passionate **Full-Stack** developer
+### 🎓 教育背景
 
-- 🌱 Currently exploring **Rust, Solidity, Solana** to broaden my Web3 perspective
+🏫 **赣东学院** (全日制公办本科) | 2022.09 - 2026.06
 
-- 📫 How to reach me: **l746904924@gmail.com**
+🏆 **荣誉奖项**
+- 🥇 传智杯小程序开发 **省级一等奖**
+- 🥇 全国大学生统计建模 **省级一等奖**
+- 🥉 电工杯数学建模 **全国三等奖**
+- 🥈 蓝桥杯 **省级二等奖**
+- 📜 软著《抚州文旅通及后台管理系统》
 
-- 💡 I love building **decentralized applications** and exploring **blockchain technology**
+🎯 **在校经历**
+- 💼 计算机科学实验室开发团队 **负责人**
+- 🏢 拥有营业执照担任 **法人**
+- 📱 独立开发小程序 **上线运营**
 
-- ⚡ Fun fact: **self-driven, focused, and I enjoy the sense of achievement from overcoming challenges** 
+📝 **英语水平**: CET-6
 
-<br clear="both">
+</td>
+<td valign="top" width="50%">
 
+### 💼 职业经历
+
+🏢 **广州亚信科技有限公司** | 全栈开发 | 2024.07 - 2024.09
+
+🏢 **惠州有象科技有限公司** | Java 后端实习生 | 2025.01 - 2025.05
+
+🏢 **上海寂宇观宙科技有限公司** | 游戏后端开发 | 2025.09 - 2025.12
 
 ---
 
-## 💻 Tech Stack
+### 🛠️ 技术栈
 
-### Programming Languages
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=flat-square&logo=solidity&logoColor=white)
 
-<div align="center">
+![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Vue](https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RABBITMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
-### Frameworks & Libraries
+---
 
-<div align="center">
+### 🏆 项目经历
 
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<table>
+<tr>
+<td>
 
-</div>
+**🌟 抚州文旅通** | 省级重点大创项目 | 技术负责人 | 2024.06 - 2025.03
 
-### Tools & Platforms
+> 已获得市政府投资，用户量 1000+，已实现盈利
 
-<div align="center">
+</td>
+<td>
 
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+**🛒 夜猫小铺** | 宿舍小卖铺小程序 | 独立开发 | 已上线运营
 
-</div>
+> 面向校园学生群体，解决深夜购物需求
 
-### Web3 & Blockchain
+</td>
+</tr>
+</table>
 
-<div align="center">
+---
 
-![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/SOLANA-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Web3.js](https://img.shields.io/badge/WEB3.JS-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+### 📫 联系方式
 
-</div>
-
-### AI Tools
-
-<div align="center">
-
-![Claude](https://img.shields.io/badge/CLAUDE-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Antigravity](https://img.shields.io/badge/ANTIGRAVITY-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
-
-
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l746904924@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oronm-boop)
-
-</div>
-
-
+**Email**: [l746904924@gmail.com](mailto:l746904924@gmail.com) | **GitHub**: [Oronm-boop](https://github.com/Oronm-boop)
